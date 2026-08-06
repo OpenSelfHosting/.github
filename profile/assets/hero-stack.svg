@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 420" fill="none" aria-hidden="true">
+  <defs>
+    <radialGradient id="g" cx="50%" cy="40%" r="60%">
+      <stop offset="0%" stop-color="#5EB89A" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#5EB89A" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <circle cx="260" cy="200" r="170" fill="url(#g)"/>
+  <circle cx="260" cy="200" r="150" stroke="#0F5C4C" stroke-opacity="0.12" stroke-dasharray="6 10" fill="none"/>
+  <!-- server blades -->
+  <g transform="translate(130 110)">
+    <rect width="260" height="54" rx="12" fill="#16352B"/>
+    <circle cx="28" cy="27" r="6" fill="#5EB89A"/>
+    <rect x="52" y="20" width="90" height="8" rx="4" fill="#E8F5F0" opacity="0.2"/>
+    <rect x="52" y="34" width="60" height="8" rx="4" fill="#E8F5F0" opacity="0.12"/>
+    <text x="210" y="33" fill="#82C9A1" font-family="ui-monospace,monospace" font-size="12">vault</text>
+  </g>
+  <g transform="translate(130 180)">
+    <rect width="260" height="54" rx="12" fill="#0F5C4C"/>
+    <circle cx="28" cy="27" r="6" fill="#5EB89A"/>
+    <rect x="52" y="20" width="90" height="8" rx="4" fill="#E8F5F0" opacity="0.2"/>
+    <rect x="52" y="34" width="60" height="8" rx="4" fill="#E8F5F0" opacity="0.12"/>
+    <text x="214" y="33" fill="#82C9A1" font-family="ui-monospace,monospace" font-size="12">chat</text>
+  </g>
+  <g transform="translate(130 250)">
+    <rect width="260" height="54" rx="12" fill="#187A64"/>
+    <circle cx="28" cy="27" r="6" fill="#E8F5F0"/>
+    <rect x="52" y="20" width="90" height="8" rx="4" fill="#E8F5F0" opacity="0.25"/>
+    <rect x="52" y="34" width="60" height="8" rx="4" fill="#E8F5F0" opacity="0.14"/>
+    <text x="205" y="33" fill="#E8F5F0" font-family="ui-monospace,monospace" font-size="12" opacity="0.8">media</text>
+  </g>
+  <!-- spark badge -->
+  <g transform="translate(400 90) scale(0.55)" fill="#0F5C4C">
+    <rect x="-8" y="-48" width="16" height="36" rx="8" transform="rotate(0)"/>
+    <rect x="-8" y="-48" width="16" height="36" rx="8" transform="rotate(45)"/>
+    <rect x="-8" y="-48" width="16" height="36" rx="8" transform="rotate(90)"/>
+    <rect x="-8" y="-48" width="16" height="36" rx="8" transform="rotate(135)"/>
+    <rect x="-8" y="-48" width="16" height="36" rx="8" transform="rotate(180)"/>
+    <rect x="-8" y="-48" width="16" height="36" rx="8" transform="rotate(225)"/>
+    <rect x="-8" y="-48" width="16" height="36" rx="8" transform="rotate(270)"/>
+    <rect x="-8" y="-48" width="16" height="36" rx="8" transform="rotate(315)"/>
+    <circle r="14" fill="#F3F6F4"/>
+    <circle r="6" fill="#0F5C4C"/>
+  </g>
+</svg>

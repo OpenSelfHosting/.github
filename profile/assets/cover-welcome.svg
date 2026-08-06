@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" fill="none">
+  <rect width="640" height="360" fill="#E8F0EC"/>
+  <circle cx="520" cy="80" r="120" fill="#0F5C4C" opacity="0.08"/>
+  <circle cx="100" cy="300" r="90" fill="#5EB89A" opacity="0.12"/>
+  <!-- Open Spark mark -->
+  <g transform="translate(320 180)" fill="#0F5C4C">
+    <g>
+      <rect x="-8" y="-78" width="16" height="48" rx="8" transform="rotate(0)"/>
+      <rect x="-8" y="-78" width="16" height="48" rx="8" transform="rotate(45)"/>
+      <rect x="-8" y="-78" width="16" height="48" rx="8" transform="rotate(90)"/>
+      <rect x="-8" y="-78" width="16" height="48" rx="8" transform="rotate(135)"/>
+      <rect x="-8" y="-78" width="16" height="48" rx="8" transform="rotate(180)"/>
+      <rect x="-8" y="-78" width="16" height="48" rx="8" transform="rotate(225)"/>
+      <rect x="-8" y="-78" width="16" height="48" rx="8" transform="rotate(270)"/>
+      <rect x="-8" y="-78" width="16" height="48" rx="8" transform="rotate(315)"/>
+    </g>
+    <circle r="22" fill="#E8F0EC"/>
+    <circle r="10" fill="#0F5C4C"/>
+  </g>
+  <text x="320" y="290" text-anchor="middle" fill="#0F5C4C" font-family="Georgia, serif" font-size="22" font-weight="700" opacity="0.55">OpenSelfHosting</text>
+</svg>
