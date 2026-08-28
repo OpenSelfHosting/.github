@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" role="img" aria-label="OpenClipBoard">
-  <rect width="96" height="96" rx="22" fill="#16352B"/>
-  <g fill="none" stroke="#82C9A1" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" transform="translate(22 18) scale(2.2)">
-    <rect width="8" height="4" x="8" y="2" rx="1" ry="1"/>
-    <path d="M16 4h2a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2h2"/>
-    <path d="M9 14h6"/><path d="M9 18h6"/>
-  </g>
-</svg>

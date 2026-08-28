@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" role="img" aria-label="Run it where you want">
-  <rect width="96" height="96" rx="22" fill="#E8F0EC"/>
-  <g fill="none" stroke="#0F5C4C" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" transform="translate(22 22) scale(2.2)">
-    <rect width="20" height="8" x="2" y="2" rx="2" ry="2"/>
-    <rect width="20" height="8" x="2" y="14" rx="2" ry="2"/>
-    <path d="M6 6h.01"/><path d="M6 18h.01"/>
-  </g>
-</svg>

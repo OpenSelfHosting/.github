@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" role="img" aria-label="Open source">
-  <rect width="96" height="96" rx="22" fill="#E8F0EC"/>
-  <g fill="none" stroke="#0F5C4C" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" transform="translate(22 22) scale(2.2)">
-    <polyline points="16 18 22 12 16 6"/><polyline points="8 6 2 12 8 18"/>
-  </g>
-</svg>

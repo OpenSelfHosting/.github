@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" role="img" aria-label="OpenChat">
-  <rect width="96" height="96" rx="22" fill="#187A64"/>
-  <g fill="none" stroke="#E8F5F0" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" transform="translate(22 22) scale(2.2)">
-    <path d="M7.9 20A9 9 0 1 0 4 16.1L2 22z"/>
-  </g>
-</svg>
